@@ -9,32 +9,7 @@ This repository contains the code for a Chat Bot project developed as part of le
 - [Contributing](#contributing)
 
 ## Introduction
-The Chat Bot is designed to simulate conversation with human users, providing responses based on predefined rules or machine learning algorithms. This project utilizes the Gemini API to enhance the Chat Bot's capabilities. The Chat Bot React application is a web-based interface that allows users to interact with the Chat Bot.
-
-## Installation
-To install and run the Chat Bot React application, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/pavan347/ChatBot_Using_GenerativeAI.git
-    cd Final-Year-Projects/Chat Bot
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Create a `.env` file in the root directory and add the `VITE_API_URL` key:
-    ```bash
-    "VITE_API_URL=your_gemini_api_url_here"
-    ```
-
-## Usage
-To start the Chat Bot React application, run the following command:
-```bash
-npm run dev
-```
+The Chat Bot is a web application built using React and the GEMINI API to facilitate continuous conversation. It functions similarly to other chatbots like GEMINI or ChatGPT, providing interactive and dynamic responses to user inputs.
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
