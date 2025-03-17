@@ -14,6 +14,7 @@ dist-ssr
 
 .env
 SETUP.md
+src
 
 # Editor directories and files
 .vscode/*
